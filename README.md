@@ -1,14 +1,7 @@
 # BlockchainEngineering
 Supplemental Materials for the Manuscript  "Evolving Competencies in Blockchain Engineering: A Longitudinal Replication Study"
 
-The repository enables transparent replication, reuse, and secondary analysis of all data and results presented in the paper.
-
-This repository contains the supplementary materials for the study:
-
-> **From Experimentation to Maturity: The Changing Competencies of Blockchain Engineers**  
-> Submitted to *ICSE 2026 – WETSEB Workshop*
-
-All data, tables, and analysis summaries provided here support the results and figures discussed in the paper.
+The repository enables transparent replication, reuse, and secondary analysis of all data and results presented in the paper. All data, tables, and analysis summaries provided here support the results and figures discussed in the paper.
 
 ---
 

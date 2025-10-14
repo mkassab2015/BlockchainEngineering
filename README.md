@@ -17,10 +17,10 @@ All data, tables, and analysis summaries provided here support the results and f
 | File | Description |
 |------|--------------|
 | **Raw Data.csv** | The complete cleaned dataset of blockchain-related job advertisements collected from LinkedIn and Indeed (October 2025). Each row represents one unique posting with extracted text and metadata. |
-| **Blockchain Competencies Analysis.xlsx** | Summary of extracted competencies organized into five categories: Technical, Blockchain-Specific, DevOps, Security, and Soft Skills. Includes frequency and cross-temporal comparison (2020 → 2025). |
-| **Technical Skills Analysis.xlsx** | Breakdown of required technologies and tools (languages, frameworks, databases, cloud services, cryptography). Used for Figures 3–5 in the paper. |
-| **Soft Skills Analysis.xlsx** | Quantitative and qualitative coding of soft-skill mentions (communication, teamwork, adaptability, etc.). Includes relative frequency and regional variation. |
-| **Degrees Analysis.xlsx** | Aggregated results of required academic degrees and disciplines, including cross-regional patterns and longitudinal trends. |
+| **Blockchain Competencies Analysis.xlsx** | Summary of extracted competencies organized into five categories: Technical, Blockchain-Specific, DevOps, Security, and Soft Skills. Includes frequency.|
+| **Technical Skills Analysis.xlsx** | Breakdown of required technologies and tools (languages, frameworks, databases, cloud services, cryptography).  |
+| **Soft Skills Analysis.xlsx** | Quantitative and qualitative coding of soft-skill mentions (communication, teamwork, adaptability, etc.).  |
+| **Degrees Analysis.xlsx** | Aggregated results of required academic degrees and disciplines. |
 
 ---
 
